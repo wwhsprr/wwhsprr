@@ -4,11 +4,15 @@ Python Backend Developer interested in backend development, web applications, an
 
 ## ▸ Tech Stack
 
+## ▸ Tech Stack
+
 * Python
 * Flask
 * SQLite
 * PostgreSQL
 * HTML & CSS
+* JavaScript
+* Linux
 * Git & GitHub
 * Telegram Bot API
 

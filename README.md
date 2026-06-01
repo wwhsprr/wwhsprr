@@ -10,8 +10,6 @@ Aspiring Backend Developer interested in backend development, web applications, 
 * PostgreSQL
 * HTML & CSS
 * JavaScript
-* PHP
-* WordPress
 * Linux
 * Git & GitHub
 * Telegram Bot API

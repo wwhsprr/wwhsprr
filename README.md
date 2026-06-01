@@ -1,8 +1,8 @@
-# Hi, I'm Max
+# Hi, I'm Maksym
 
 Python Backend Developer interested in backend development, web applications, and Telegram bots.
 
-## Tech Stack
+## ▸ Tech Stack
 
 * Python
 * Flask
@@ -12,7 +12,7 @@ Python Backend Developer interested in backend development, web applications, an
 * Git & GitHub
 * Telegram Bot API
 
-## 📂 Projects
+## ▸ Projects
 
 ### Telegram Movie Bot
 
@@ -42,17 +42,17 @@ Technologies:
 * PostgreSQL
 * SQLAlchemy
 
-## 🎓 Education
+## ▸ Education
 
-* Redmonkey IT Academy
+* Redmonkey IT Academy (3 years)
 * GoITeens (Python Pro)
 
-## 📚 Currently Learning
+## ▸ Currently Learning
 
 * FastAPI
 * Advanced SQL
 * Backend Architecture
 
-## 📫 Contact
+## ▸ Contact
 
 GitHub: @wwhsprr

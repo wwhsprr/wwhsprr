@@ -47,7 +47,7 @@ Technologies:
 ## ▸ Education
 
 * Redmonkey IT Academy (3 years)
-* GoITeens (Python Pro)
+* GoITeens (Python Pro (1 year)
 
 ## ▸ Currently Learning
 
@@ -58,3 +58,5 @@ Technologies:
 ## ▸ Contact
 
 GitHub: @wwhsprr
+Email: rockstarwhisper@gmail.com
+Telegram: @wwhsprr

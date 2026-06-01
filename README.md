@@ -1,6 +1,6 @@
 # Hi, I'm Max
 
-Python Backend Developer interested in backend development, web applications, and Telegram bots.
+Aspiring Python Backend Developer interested in backend development, web applications, and Telegram bots.
 
 ## ▸ Tech Stack
 

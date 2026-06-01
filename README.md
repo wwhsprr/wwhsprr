@@ -1,8 +1,6 @@
-# Hi, I'm Maksym
+# Hi, I'm Max
 
 Python Backend Developer interested in backend development, web applications, and Telegram bots.
-
-## ▸ Tech Stack
 
 ## ▸ Tech Stack
 

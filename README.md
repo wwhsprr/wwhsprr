@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Maksym
 
-<!--
-**wwhsprr/wwhsprr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Python Developer interested in backend development, web applications, and Telegram bots.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Flask
+* SQLite
+* PostgreSQL
+* HTML & CSS
+* Git & GitHub
+* Telegram Bot API
+
+## Projects
+
+### Telegram Movie Bot
+
+Telegram bot for managing a personal movie collection.
+
+Features:
+
+* Movie search
+* Filtering
+* Ratings
+* Collection management
+
+### Flask Restaurant App
+
+Web application for a restaurant.
+
+Features:
+
+* Menu management
+* Online orders
+* Table reservations
+* Admin panel
+
+Technologies:
+
+* Flask
+* PostgreSQL
+* SQLAlchemy
+
+## Education
+
+* Redmonkey IT Academy
+* GoITeens (Python Pro)
+
+## Currently Learning
+
+* FastAPI
+* Advanced SQL
+* Backend Architecture
+
+## Contact
+
+GitHub: @wwhsprr

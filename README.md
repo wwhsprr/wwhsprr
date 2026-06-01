@@ -1,6 +1,6 @@
 # Hi, I'm Max
 
-Junior Python Developer interested in backend development, web applications, and Telegram bots.
+Python Backend Developer interested in backend development, web applications, and Telegram bots.
 
 ## Tech Stack
 
@@ -12,7 +12,7 @@ Junior Python Developer interested in backend development, web applications, and
 * Git & GitHub
 * Telegram Bot API
 
-## Projects
+## 📂 Projects
 
 ### Telegram Movie Bot
 
@@ -42,17 +42,17 @@ Technologies:
 * PostgreSQL
 * SQLAlchemy
 
-## Education
+## 🎓 Education
 
 * Redmonkey IT Academy
 * GoITeens (Python Pro)
 
-## Currently Learning
+## 📚 Currently Learning
 
 * FastAPI
 * Advanced SQL
 * Backend Architecture
 
-## Contact
+## 📫 Contact
 
 GitHub: @wwhsprr

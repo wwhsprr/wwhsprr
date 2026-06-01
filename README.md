@@ -57,6 +57,6 @@ Technologies:
 
 ## ▸ Contact
 
-GitHub: @wwhsprr
-Email: rockstarwhisper@gmail.com
-Telegram: @wwhsprr
+* GitHub: @wwhsprr
+* Email: rockstarwhisper@gmail.com
+* Telegram: @wwhsprr

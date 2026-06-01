@@ -1,4 +1,4 @@
-# Hi, I'm Maksym
+# Hi, I'm Max
 
 Junior Python Developer interested in backend development, web applications, and Telegram bots.
 
